@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Same as the main theme's post link, but not display block */
+.post-link-inline {
+  @include relative-font-size(1.5);
+}
