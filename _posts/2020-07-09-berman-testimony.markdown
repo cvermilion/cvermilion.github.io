@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Former US Attorney for SDNY testifies he was pressured to resign?"
+title:  "Former US Attorney for SDNY testifies he was pressured to resign"
 date:   2020-07-09 18:53:00 -0400
 issusanconcerned: "No"
 ---
