@@ -3,6 +3,7 @@ layout: post
 title:  "White House works to undercut Dr. Fauci"
 date:   2020-07-13 15:44:00 -0400
 issusanconcerned: "No"
+excerpt: The doctor is... out?
 ---
 # No.
 

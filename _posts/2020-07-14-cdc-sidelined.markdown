@@ -3,6 +3,7 @@ layout: post
 title:  "Administration sidelines CDC"
 date:   2020-07-14 18:51:00 -0400
 issusanconcerned: "No"
+excerpt: CDC no evil.
 ---
 # No.
 

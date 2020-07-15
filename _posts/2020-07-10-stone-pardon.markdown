@@ -3,6 +3,7 @@ layout: post
 title:  "President Trump commutes sentence for Roger Stone"
 date:   2020-07-10 18:53:00 -0400
 issusanconcerned: "No"
+excerpt: "\"Unprecedented, historic corruption\""
 ---
 # No.
 
